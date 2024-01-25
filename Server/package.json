@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "debug": "nodemon --inspect index.js"
+    "dev": "nodemon indesx.js",
+    "build":"npm i"
   },
   "author": "EslamGenedy",
   "license": "ISC",
